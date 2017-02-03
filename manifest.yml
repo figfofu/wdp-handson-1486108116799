@@ -6,5 +6,3 @@ applications:
   name: wdp-handson
   host: wdp-handson
   disk_quota: 1024M
-  services:
-  - AD-Greatoutdoors-DB
