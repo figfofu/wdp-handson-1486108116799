@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: wdp-handson
+  host: wdp-handson
+  disk_quota: 1024M
+  services:
+  - AD-Greatoutdoors-DB
